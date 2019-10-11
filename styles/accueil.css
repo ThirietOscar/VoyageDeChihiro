@@ -172,7 +172,7 @@ body{
   width: 70%;
   z-index: 3;
   left: 200px;
-  top: 1670px;
+  top: 2270px;
 }
 
 .bureauBack{
@@ -180,7 +180,7 @@ body{
   width: 70%;
   z-index: 2;
   left: 200px;
-  top: 1908px;
+  top: 2608px;
 }
 
 .chambreFront{
@@ -188,7 +188,7 @@ body{
   width: 80%;
   z-index: 3;
   left: 200px;
-  top: 2610px;
+  top: 3010px;
 }
 
 .chambreBack{
@@ -196,7 +196,7 @@ body{
   width: 45%;
   z-index: 4;
   left: 430px;
-  top: 2620px;
+  top: 3020px;
 }
 
 .bainFront{
@@ -204,7 +204,7 @@ body{
   width: 75%;
   z-index: 2;
   left: 240px;
-  top: 3100px;
+  top: 3500px;
 }
 
 .bainBack{
@@ -212,7 +212,7 @@ body{
   width: 60%;
   z-index: 3;
   left: 240px;
-  top: 3500px;
+  top: 3900px;
 }
 
 .caveFront{
@@ -220,7 +220,7 @@ body{
   width: 72%;
   z-index: 2;
   left: 220px;
-  top: 4110px;
+  top: 4600px;
 }
 
 .caveBack{
@@ -228,7 +228,7 @@ body{
   width: 35%;
   z-index: 3;
   left: 600px;
-  top: 4280px;
+  top: 4800px;
 }
 
 
